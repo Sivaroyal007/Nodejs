@@ -58,3 +58,4 @@ const toarr2=(...args)=>{
     return args;
     };
     console.log(toarr2(1,2,3,5,5,5));
+//
